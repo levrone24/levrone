@@ -20,7 +20,7 @@ cd levrone
   </code></pre>
 
   <h2>Step 3: Replace the Files</h2>
-  <p>Manually copy and paste the configuration files from this repository to your <code>~/.config/hypr/</code> directory.</p>
+  <p>Manually copy and paste the configuration files from this repository to your <code>~/.config/</code> directory.</p>
 
   <h2>Step 4: Install Dependencies</h2>
   <p>Run the following commands to install the required packages:</p>
